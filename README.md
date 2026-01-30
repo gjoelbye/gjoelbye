@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hej — I’m Anders 👋🇩🇰
 
-<!--
-**gjoelbye/Gjoelbye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Dane and a PhD fellow at DTU (DDSA PhD Fellow), currently visiting Stanford’s **STAIR Lab**. I work at the intersection of trustworthy ML, causality, and neuroscience/healthcare—with a slightly more *theory / math* tilt than average, but always grounded in real data. STAIR focuses on developing principles and practices of trustworthy machine learning, including fairness and robustness, with applications to healthcare and neuroimaging [oai_citation:0‡stairlab.stanford.edu](https://stairlab.stanford.edu/#:~:text=The%20Stanford%20Trustworthy%20AI%20Research,applications%20to%20healthcare%20and%20neuroimaging).
 
-Here are some ideas to get you started:
+#### Currently I’m…
+- Interested in **AI alignment** and what’s happening *inside* neural networks—how representations form, align, and sometimes fail in ways that matter for robustness and interpretability. This also motivates my recent work on **spectral PLS** (exploring missing‑data–induced phase transitions) and on **mental rotation** as a controlled probe [oai_citation:1‡arxiv.org](https://arxiv.org/abs/2509.15271#:~:text=,constraints%20in%20embedding%20space%20representations).
+- Developing **PatternLocal** from our NeurIPS paper *“Minimizing False‑Positive Attributions in Explanations of Non‑Linear Models”* [oai_citation:2‡arxiv.org](https://arxiv.org/abs/2505.11210#:~:text=,dataset%2C%20demonstrating%20physiologically%20plausible%20explanations)—aimed at reducing spurious feature attributions while keeping local surrogate explanations faithful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Background & affiliations
+- **PhD candidate at DTU** (Applied Mathematics & Computer Science) working on the *Causal Approach to Trustworthy AI in Healthcare* project [oai_citation:3‡ddsa.dk](https://ddsa.dk/member/anders-gjolbye-madsen/#:~:text=The%20project%20proposes%20to%20investigate,of%20causality%20in%20model%20interpretability).
+- **Visiting scholar at Stanford’s STAIR Lab** focusing on trustworthy AI and its applications to neuroimaging [oai_citation:4‡stairlab.stanford.edu](https://stairlab.stanford.edu/#:~:text=The%20Stanford%20Trustworthy%20AI%20Research,applications%20to%20healthcare%20and%20neuroimaging).
+- **DDSA fellow and Young Academy Panel member** representing early‑career data scientists [oai_citation:5‡ddsa.dk](https://ddsa.dk/yap/#:~:text=DDSA%20Young%20Academy%20Panel%20II).
+- Part of the **Pioneer Centre for AI** collaboratories on signals, decoding and causal explainability [oai_citation:6‡aicentre.dk](https://www.aicentre.dk/people/anders-gjolbye-madsen#:~:text=People).
+- Previously built **SPEED** with collaborators at ETH Zürich and the University of Zurich [oai_citation:7‡orbit.dtu.dk](https://orbit.dtu.dk/en/publications/speed-scalable-preprocessing-of-eeg-data-for-self-supervised-lear/#:~:text=Electroencephalography%20,to%20training%20with%20raw%20data).
+- Worked with **BrainCapture**, a startup bringing accessible EEG solutions worldwide [oai_citation:8‡healthtechhub.org](https://healthtechhub.org/news/braincapture-receives-ce-mark-expanding-access-to-innovative-eeg-technology/#:~:text=BrainCapture%2C%20a%20health%20tech%20startup,region%20recognizing%20the%20CE%20mark).
+- Co‑founded **Copenhagen MedTech** and ran a Google Cloud hackathon project (on my GitHub).
+- **Competitive programming** enthusiast (ICPC style contests).
+
+#### Selected publications & projects
+- **[Minimizing False‑Positive Attributions in Explanations of Non‑Linear Models](https://scholar.google.com/scholar?q=Minimizing+False-Positive+Attributions+in+Explanations+of+Non-Linear+Models)** (NeurIPS 2025) — introduces PatternLocal to suppress false‑positive feature attributions [oai_citation:9‡arxiv.org](https://arxiv.org/abs/2505.11210#:~:text=,dataset%2C%20demonstrating%20physiologically%20plausible%20explanations).  
+- **[SPEED: Scalable Preprocessing of EEG Data for Self‑Supervised Learning](https://scholar.google.com/scholar?q=Speed%3A+Scalable+Preprocessing+of+EEG+Data+for+Self-Supervised+Learning)** (MLSP 2024) — a pipeline that stabilises self‑supervised training on EEG and improves downstream performance [oai_citation:10‡orbit.dtu.dk](https://orbit.dtu.dk/en/publications/speed-scalable-preprocessing-of-eeg-data-for-self-supervised-lear/#:~:text=Electroencephalography%20,to%20training%20with%20raw%20data).  
+- **[Concept‑Based Explainability for an EEG Transformer Model](https://scholar.google.com/scholar?q=Concept-Based+Explainability+for+an+EEG+Transformer+Model)** (MLSP 2023) — adapts concept activation vectors to EEG transformers [oai_citation:11‡orbit.dtu.dk](https://orbit.dtu.dk/en/publications/concept-based-explainability-for-an-eeg-transformer-model/#:~:text=Abstract).  
+- **[Large Vision Models Can Solve Mental Rotation Problems](https://scholar.google.com/scholar?q=Large+Vision+Models+Can+Solve+Mental+Rotation+Problems)** (2025 preprint) — shows self‑supervised ViTs capture geometric structure better than supervised models and that intermediate layers outperform final layers [oai_citation:12‡arxiv.org](https://arxiv.org/abs/2509.15271#:~:text=,constraints%20in%20embedding%20space%20representations).  
+- **Missing‑Data‑Induced Phase Transitions in Spectral PLS for Multimodal Learning** — forthcoming preprint (links coming soon).
